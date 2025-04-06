@@ -56,7 +56,7 @@ issuesTypeMappings:
 syncProjects:
   - name: "Podman Desktop"
     github:
-      owner: containers
+      owner: podman-desktop
       repo: podman-desktop
       project: Podman Desktop Planning
       afterDate: 2024-01-01
@@ -104,7 +104,7 @@ syncProjects:
 
   - name: "Podman Desktop bootc extension"
     github:
-      owner: containers
+      owner: podman-desktop
       repo: podman-desktop-extension-bootc
       project: Podman Desktop Planning
       afterDate: 2022-01-01
@@ -120,7 +120,7 @@ syncProjects:
 
   - name: "Podman Desktop minikube extension"
     github:
-      owner: containers
+      owner: podman-desktop
       repo: podman-desktop-extension-minikube
       project: Podman Desktop Planning
       afterDate: 2022-01-01
@@ -136,7 +136,7 @@ syncProjects:
 
   - name: "Podman Desktop layers explorer extension"
     github:
-      owner: containers
+      owner: podman-desktop
       repo: podman-desktop-extension-layers-explorer
       project: Podman Desktop Planning
       afterDate: 2022-01-01
